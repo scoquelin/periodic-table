@@ -1,0 +1,9 @@
+module periodic-table {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:periodic-table";
+    prefix "periodic-table";
+
+    revision "2015-01-05" {
+        description "Initial revision of periodic-table model";
+    }
+}
