@@ -54,7 +54,7 @@ public class PeriodicTableIT extends AbstractMdsalTestBase {
     }
 
     @Test
-    public void testperiodic-tableFeatureLoad() {
+    public void testPeriodicTableFeatureLoad() {
         Assert.assertTrue(true);
     }
 }
